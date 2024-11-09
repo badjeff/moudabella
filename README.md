@@ -27,14 +27,15 @@ An open source bluetooth mouse 🐭 that can do CAD.
 
 [🎥 Sound Test](https://imgur.com/a/Uihee3r)
 
-<img src="./imgs/c2.jpeg" width="200">
-<img src="./imgs/c4.jpeg" width="200">
-<img src="./imgs/c5.jpeg" width="200">
-<img src="./imgs/c6.jpeg" width="200">
-<img src="./imgs/c1.jpeg" width="200">
-<img src="./imgs/c3.jpeg" width="200">
-<img src="./imgs/c7.jpeg" width="200">
-
+<p float="left">
+<img src="./imgs/c2.jpeg" width="233">
+<img src="./imgs/c4.jpeg" width="233">
+<img src="./imgs/c5.jpeg" width="233">
+<img src="./imgs/c6.jpeg" width="233">
+<img src="./imgs/c1.jpeg" width="233">
+<img src="./imgs/c3.jpeg" width="233">
+<img src="./imgs/c7.jpeg" width="233">
+</p>
 
 ### BOM
 |Unit|Item|
