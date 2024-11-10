@@ -1,6 +1,6 @@
 # moudabella
 
-An open source bluetooth mouse 🐭 that can do CAD.
+An open source bluetooth mouse 🐭 for CAD 🐱.
 
 <img src="./imgs/c2.jpeg" width="400">
 
