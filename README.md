@@ -45,7 +45,6 @@ An open source bluetooth mouse 🐭 for CAD 🐱.
 |9|Kailh CMI627301D07 6x6x7.3mm Silent Micro Switch|
 |9|1N4148W T4 SOD-123 Diode|
 |1|ALPS EC05-E1220401 (Vertical) Rotary Encoder|
-|1|30x2mm Metal Shaft (File one end into a hexagonal shape, fit in EC05 Rotary Encoder)|
 |1|MSK-1153 6 Pins Power Switch|
 |1|3x4x2mm Tact Switch Turtle Switch|
 |1|M2 Screw Boxset (3-10mm)|
@@ -53,6 +52,7 @@ An open source bluetooth mouse 🐭 for CAD 🐱.
 |1|601230 Lipo Battery (plus connector)|
 |5|Thick Mouse Feet Skates Dots (~0.7mm)|
 |1|28/26 AWG silicone wire|
+|1|For FDM printing, 30x2mm Metal Shaft (File one end into a hexagonal shape, fit in EC05 Rotary Encoder)|
 
 
 ### Building Guide / Tips
